@@ -1,0 +1,1 @@
+task_execution_role_managed_policies = ["arn:aws:iam::aws:policy/service-role/AmazonECSTaskExecutionRolePolicy"]
